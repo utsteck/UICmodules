@@ -1,0 +1,18 @@
+{
+    "Name":"PN/PL Process",
+    "id":"6570b1f8bf66fc48333c882a",
+    "version":"1.0.0",
+    "type":"EXE",
+    "executable":"6570b1f8bf66fc48333c882a.exe",
+    "requirements":[{
+        "type":"File",
+        "root":"Web Driver",
+        "loc":["msedgedriver.exe"]
+    },
+    {
+        "type":"File",
+        "root":"Workers",
+        "loc":["?p_id","6570b1f8bf66fc48333c882a.exe"]
+    }
+]
+}
